@@ -1,7 +1,7 @@
 # entity-relationship-diagram
 An Enhanced Entity Relationship diagram (EERD) for a database application. Based on specifications given by AUER, a newly established (hypothetical) transportation network company in Australia.
 
-# specifications
+# Project Specifications
 
 • Each AUER staff member has a unique StaffID.
 
@@ -23,5 +23,6 @@ of all cars. Each inspection result includes the inspection status and inspectio
 staff members. The inspection status must be one of three possible options (i.e., perfect, functional and flawed).
 
 # Enhanced Entity Relationship Diagram (EERD)
+
 
 ![alt text](https://raw.githubusercontent.com/AtifFarooq/entity-relationship-diagram/master/EERD_Database.jpg)
