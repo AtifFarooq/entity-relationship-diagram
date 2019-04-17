@@ -24,3 +24,4 @@ staff members. The inspection status must be one of three possible options (i.e.
 
 # Enhanced Entity Relationship Diagram (EERD)
 
+![alt text](https://raw.githubusercontent.com/AtifFarooq/entity-relationship-diagram/master/EERD_Database.jpg)
